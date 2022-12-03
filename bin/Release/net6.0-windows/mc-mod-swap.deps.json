@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mc-mod-swap/1.0.0": {
+        "runtime": {
+          "mc-mod-swap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mc-mod-swap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\renha\source\repos\mc-mod-swap\bin\Debug\net6.0-windows\mc-mod-swap.exe
+C:\Users\renha\source\repos\mc-mod-swap\bin\Debug\net6.0-windows\mc-mod-swap.deps.json
+C:\Users\renha\source\repos\mc-mod-swap\bin\Debug\net6.0-windows\mc-mod-swap.runtimeconfig.json
+C:\Users\renha\source\repos\mc-mod-swap\bin\Debug\net6.0-windows\mc-mod-swap.dll
+C:\Users\renha\source\repos\mc-mod-swap\bin\Debug\net6.0-windows\mc-mod-swap.pdb
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.vbproj.AssemblyReference.cache
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc_mod_swap.Form1.resources
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.vbproj.GenerateResource.cache
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.AssemblyInfoInputs.cache
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.AssemblyInfo.vb
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.vbproj.CoreCompileInputs.cache
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.dll
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\refint\mc-mod-swap.dll
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.pdb
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\mc-mod-swap.genruntimeconfig.cache
+C:\Users\renha\source\repos\mc-mod-swap\obj\Debug\net6.0-windows\ref\mc-mod-swap.dll

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>mc-mod-swap</id>
+    <version>1.0.0</version>
+    <authors>mc-mod-swap</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\renha\source\repos\mc-mod-swap\bin\Release\net6.0-windows\mc-mod-swap.runtimeconfig.json" target="lib\net6.0-windows7.0\mc-mod-swap.runtimeconfig.json" />
+    <file src="C:\Users\renha\source\repos\mc-mod-swap\bin\Release\net6.0-windows\mc-mod-swap.dll" target="lib\net6.0-windows7.0\mc-mod-swap.dll" />
+  </files>
+</package>
